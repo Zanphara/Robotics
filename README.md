@@ -1,2 +1,2 @@
 # Robotics
-this is the repo for my obsidian vualt
+this is the repo for my obsidian vault
